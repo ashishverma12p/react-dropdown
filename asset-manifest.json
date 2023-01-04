@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ashishverma12p/react-dropdown/static/css/main.5f92549f.css",
+    "main.js": "/ashishverma12p/react-dropdown/static/js/main.5bf4713a.js",
+    "index.html": "/ashishverma12p/react-dropdown/index.html",
+    "main.5f92549f.css.map": "/ashishverma12p/react-dropdown/static/css/main.5f92549f.css.map",
+    "main.5bf4713a.js.map": "/ashishverma12p/react-dropdown/static/js/main.5bf4713a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f92549f.css",
+    "static/js/main.5bf4713a.js"
+  ]
+}
